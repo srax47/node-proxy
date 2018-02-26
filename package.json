@@ -1,0 +1,10 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Rami Jarrar <srax47@gmail.com>",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
